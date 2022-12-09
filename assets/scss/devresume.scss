@@ -28,8 +28,8 @@ $gray-800: lighten($theme-text-color-primary, 10%);
 $gray-900: $theme-text-color-primary;
 
 /* Override BS5 sass color */
-$primary: $theme-color-primary;
-$secondary: $theme-text-color-secondary;
+$primary: $theme-color-primary: #00539CFF;
+$secondary: $theme-text-color-secondary: #292929;
 
 /*************************** Import Bootstrap  *****************************/
 @import "bootstrap/scss/bootstrap.scss";
